@@ -8,7 +8,7 @@ What I've implemented so far :
 *Stars  
 
 TO DO:  
-*Add Baisc Lighting   
+*Add Basic Lighting   
 *Add sattelites  
 *Add textures to celestial bodies(Cubemaps)  
 ...  
