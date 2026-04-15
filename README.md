@@ -1,17 +1,16 @@
 # Basic 3D Solar System
-A small project of mine to polish my skill and consolidate what I've learnt.
+A small project of mine to create something of my own.
+Just a model of our Solar System recreated using OpenGL.
+So far I'm satisfied with it, so I'll move with next project.
+A little teaser : It will be related to light and a bit of physics.
+I'm very excited for it :^)
 
-What I've implemented so far :  
+What I've implemented :  
 *Camera and movements  
-*Celestial bodies  
+*Celestial bodies (spherical now :^) )
+*Instanced Rendering
 *Rotation and orbit of celestial bodies  
-*Stars  
-
-TO DO:  
-*Add Basic Lighting   
-*Add sattelites  
-*Add textures to celestial bodies(Cubemaps)  
-...  
+*Stars
 
 Video Preview :  
 <video src="https://github.com/user-attachments/assets/a9ca4729-8728-408f-8269-cc5f097fca60" width="352" height="720"></video>
