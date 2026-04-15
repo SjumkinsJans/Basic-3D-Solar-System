@@ -1,6 +1,6 @@
 # Basic 3D Solar System  
-A small project of mine to create something of my own.  
-Just a model of our Solar System recreated using OpenGL.  
+A small project of mine to have something of my own.  
+Just a 3D model of our Solar System recreated using OpenGL.  
 So far I'm satisfied with it, so I'll move with next project.  
 A little teaser : It will be related to light and a bit of physics.  
 I'm very excited for it :^)  
